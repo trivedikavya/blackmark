@@ -13,3 +13,5 @@ BlackMark Digital Bank is a modern, user-friendly online banking platform that o
 - **Bootstrap 4.6** – Ensuring responsiveness and design consistency.
 - **Font Awesome** – Adding icons for a modern look.
 - **CSS (External Stylesheet)** – For additional custom styling.
+
+<img src="screencapture-127-0-0-1-3000-index-html-2025-02-26-21_41_03.png">
